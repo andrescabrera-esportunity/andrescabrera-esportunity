@@ -2,7 +2,7 @@
 - 👀 I’m interested in eSports stuff, gaming events, gaming social networks, and software architecture in general.
 - 🌱 I have designed and built eSportunity from Scratch. I’m currently learning AI, LLMS, among other topics.
 - 💞️ I’m looking to collaborate on Open Source projects around eSports.
-- 📫 How to reach me > andres.cabrera at esportunity.com
+- 📫 How to reach me > info at andrescabrera.com.ar
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: I live in a Caribbean Island with my Dachsung dog, Spunky.
 
